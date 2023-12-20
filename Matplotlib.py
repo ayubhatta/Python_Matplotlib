@@ -85,7 +85,7 @@ plt.show()
 # In[19]:
 
 
-temperature_pune = [25,34,21,45,28,6,43,18,7,2]
+temperature_pune = [25,34,21,45,28,6,43,18,7,2]       # giving data
 humidity_pune = [28, 25, 29, 20, 26, 50, 19, 29, 52, 55]
 
 temperature_banglore = [34, 35, 36, 37, 28, 27, 26, 25, 31, 20]
