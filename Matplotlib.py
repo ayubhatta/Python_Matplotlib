@@ -53,7 +53,7 @@ plt.show()
 
 
 plt.scatter(rollno, marks, color='blue', marker='*')
-plt.show()
+plt.show()   # displays the plotted graph
 
 
 # In[15]:
