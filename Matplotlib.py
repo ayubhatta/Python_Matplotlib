@@ -6,7 +6,7 @@
 
 # In[1]:
 
-
+# importing matplotlib, numpy and pandas
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
